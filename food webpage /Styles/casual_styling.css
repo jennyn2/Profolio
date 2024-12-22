@@ -1,0 +1,7 @@
+:root {
+    --primary1: #FCDE70;
+}
+
+body {
+    background-color: var(--primary1);
+}
